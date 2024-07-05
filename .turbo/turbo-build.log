@@ -1,0 +1,26 @@
+
+> ayshopgo-mvp@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  73.65 kB  build\static\js\main.dfdb74ad.js
+  2.12 kB   build\static\css\main.aa3f1871.css
+  1.77 kB   build\static\js\453.e58eb392.chunk.js
+  233 B     build\static\js\952.e7b4bc1d.chunk.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
